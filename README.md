@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning Android Development, Python, Oracle.
   
 - 💬 Contact me at     <a href="https://www.linkedin.com/in/smahmuddz/">
-   <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG31.png" width="3.5%"/>
+   <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG31.png" width="6%"/>
     </a><span>&nbsp;</span>
   
 - ⚡ Fun fact: I am Iron Man.
