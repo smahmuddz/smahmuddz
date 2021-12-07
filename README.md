@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Afridi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
+<h1 align="center">Hi, I'm Afridi <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
