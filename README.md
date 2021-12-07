@@ -22,7 +22,7 @@
 <br>
 <h2> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478kp5opmz3eqgnonnmkt4htkhnz9i1rrgu6ekhao8&rid=giphy.gif&ct=g" width ="500px"/>
+<h2> align="center" <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478kp5opmz3eqgnonnmkt4htkhnz9i1rrgu6ekhao8&rid=giphy.gif&ct=g" width ="500px"></h2>
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
