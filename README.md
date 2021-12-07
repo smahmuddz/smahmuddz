@@ -28,7 +28,9 @@
   
 - 🌱 I’m currently learning Android Development, Python, Oracle.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Contact me at  <a href="https://www.linkedin.com/in/smahmuddz/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
   
 - ⚡ Fun fact: I am Iron Man.
 
