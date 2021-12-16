@@ -36,7 +36,12 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmuddz&layout=compact)](https://github.com/smahmuddz/github-readme-stats)
+<a href="https://github.com/smahmuddz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/smahmuddz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=convoychat" />
+</a>
 
 
 ------
