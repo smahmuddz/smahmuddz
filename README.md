@@ -36,13 +36,9 @@
 
 <br>
 
-  <a href="https://github.com/smahmuddz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smahmuddz&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
-  </a>
-  <a href="https://github.com/smahmuddz">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smahmuddz&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
-  </a>
+api/pin?username=smahmuddz&repo=github-readme-stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmuddz&layout=compact)](https://github.com/smahmuddz/github-readme-stats)
 
 
 ------
