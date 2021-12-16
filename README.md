@@ -36,8 +36,6 @@
 
 <br>
 ![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=smahmuddz&show_icons=true&theme=gruvbox)
-<br>
-[![Sabbir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smahmuddz)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
 
