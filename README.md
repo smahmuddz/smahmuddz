@@ -35,7 +35,9 @@
 - ⚡ Fun fact: I am Iron Man.
 
 <br>
-![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=smahmuddz&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smahmuddz&layout=compact)](https://github.com/smahmuddz/github-readme-stats)
+
 
 ------
 
