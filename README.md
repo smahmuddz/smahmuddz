@@ -23,6 +23,8 @@
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
+  
+  
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
@@ -84,10 +86,27 @@
       alt="postgresql"/> 
   </a>
   </a> 
+ <h3 align="center">Software & Tools </h3>
+ 
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> </a>  
+
 </p>
+
+  
+  
+</p>
+<br>
+<br>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=smahmuddz&show_icons=true&theme=dark&locale=en" alt="smahmuddz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smahmuddz&theme=dark" alt="smahmuddz" /></p>
 </div>
-------
 
 
 
-Last Edited on: 16/12/2021
+
+                                                      Updated on: 20/12/2021
