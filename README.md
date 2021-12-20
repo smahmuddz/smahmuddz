@@ -37,14 +37,54 @@
 - ⚡ Fun fact: I am Iron Man.
 
 <br>
+  <br>
+  <br><br>
+
+  
+  
+  
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/smahmuddz/smahmuddz/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/smahmuddz/smahmuddz/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/smahmuddz/smahmuddz/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/smahmuddz/smahmuddz/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/smahmuddz/smahmuddz/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=yellow"
+      alt="C++"/> 
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+      alt="PYTHON"/> 
+  </a>
+  
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
+  
+  </p>
 
 
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+ <h3 align="center">Learning</h3>
+<p align="center">
+  <a href="https://dart.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+  </a> 
+</p>
 </div>
 ------
 
