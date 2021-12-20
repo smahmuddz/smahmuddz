@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Afridi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+i'm+Afridi;Second+line+of+text)](https://git.io/typing-svg)
+<h1 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F707&lines=Hello%2C+I+am+Afridi.+)](https://git.io/typing-svg) </h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
