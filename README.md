@@ -27,6 +27,8 @@
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
 - 🌱 I’m currently learning Android Development, Python, Oracle.
+
+- 📷 Hobby: Photography and Photoshop Manipulation. <a href="https://www.behance.net/sabbirafridi"> Behance </a>
   
 - 💬 Contact me at     <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG31.png" width="6%"/>
