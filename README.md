@@ -28,7 +28,7 @@
   
 - 🌱 I’m currently learning Android Development, Python, Oracle.
 
-- 📷 Hobby: Photography and Photoshop Manipulation. <a href="https://www.behance.net/sabbirafridi">  <img src=" https://1000logos.net/wp-content/uploads/2020/11/Behance-Logo-2005.jpg" width="6%"/></a><span>&nbsp;</span>
+- 📷 Hobby: <a href="https://www.behance.net/sabbirafridi">Photography and Photoshop Manipulation.</a>
  
 - 💬 Contact me at     <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG31.png" width="6%"/>
