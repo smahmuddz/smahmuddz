@@ -21,7 +21,7 @@
 <br>
 <h2> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-![Alt Text](http://videohive.net/user/xponentialdesign?ref=xponentialdesign)
+![Alt Text](https://giphy.com/gifs/trippy-psychedelic-magic-l4lRdl315eruX7S6Y)
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
