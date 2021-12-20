@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&center=true&multiline=true&width=500&lines=Hello%2C+I+am+Afridi.+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-
-  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&center=true&multiline=true&width=500&lines=Hello%2C+I+am+Afridi.+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)  
 <p align="center">
   <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
