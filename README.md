@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&center=true&multiline=true&width=500&lines=Hello%2C+I+am+Afridi.+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)  
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&multiline=true&width=500&lines=Hello%2C+I+am+Afridi.+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+<p >
   <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
@@ -16,12 +16,12 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Computer Science Undergrad at East West University who is currently learning new things</h3>
+<h3 >A Computer Science Undergrad at East West University who is currently learning new things</h3>
 
 <br>
 <h2> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<h1 align="center"> <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478kp5opmz3eqgnonnmkt4htkhnz9i1rrgu6ekhao8&rid=giphy.gif&ct=g" width ="500px"></h1>
+<h1> <img src="https://media2.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif?cid=ecf05e474oncxrt7xilaheqr0xped4wum9aqxbtd7d13mq51&rid=giphy.gif&ct=g" width ="500px"></h1>
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
