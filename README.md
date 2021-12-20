@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&multiline=true&width=500&lines=Hello%2C+I+am+Afridi.+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-</p>
+</a>
   
   
 <p align="center">
