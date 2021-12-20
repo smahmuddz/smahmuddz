@@ -1,4 +1,4 @@
-<h1 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F707&lines=Hello%2C+I+am+Afridi.+)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F707&lines=Hello%2C+I+am+Afridi.+)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smahmuddz/">
