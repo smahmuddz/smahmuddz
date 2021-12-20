@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F707&lines=Hello%2C+I+am+Afridi.+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://www.linkedin.com/in/smahmuddz/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
