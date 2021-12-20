@@ -21,7 +21,7 @@
 <br>
 <h2> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](http://videohive.net/user/xponentialdesign?ref=xponentialdesign)
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
