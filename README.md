@@ -18,7 +18,7 @@
 <p align="left">
   
   
-
+<br>
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
   
 - 🌱 I’m currently learning Android Development, Python, Oracle.
