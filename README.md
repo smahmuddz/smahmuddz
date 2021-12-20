@@ -99,7 +99,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smahmuddz&theme=dark" alt="smahmuddz" /></p>
 </div>
 
-
-
+<br>
+<h2 align="center">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{smahmuddz}/count.svg" /></p> 
+<br>
 
                                                       Updated on: 20/12/2021
