@@ -103,7 +103,7 @@
 </div>
 <br>
 <h2 align="center">My Website</h2>  
-<p align="center"><a  href="https://smahmuddz.github.io/portfolio/" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/288-2881862_banner-of-peace-png-download-visit-our-website.png" alt="sabbirmafridi" height="50" width="55" /></a></p>
+<p align="center"><a  href="https://smahmuddz.github.io/portfolio/" target="blank"><img align="center" src="<a href="https://ibb.co/L5hpxqv"><img src="https://i.ibb.co/L5hpxqv/android-chrome-512x512.png" alt="android-chrome-512x512" border="0"" height="100" width="100" /></a></p>
 
 <br>
 <h2 align="center">Visitors Count</h2>  
