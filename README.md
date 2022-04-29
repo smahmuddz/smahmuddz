@@ -26,9 +26,10 @@
 
 - 📷 Hobby: <a href="https://www.behance.net/sabbirafridi">Photography and Photoshop Manipulation.</a>
  
-- 💬 Contact me at     <a href="https://www.linkedin.com/in/smahmuddz/">
-   <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG31.png" width="6%"/>
-    </a><span>&nbsp;</span>
+- 💬 Contact me at  &nbsp;<a href="https://www.Linkedin.com/smahmuddz" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn" align="center"/> 
+  </a>
   
 - ⚡ Fun fact: I am Iron Man.
   
@@ -87,7 +88,8 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  
-<a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> </a>  
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> 
+<a href="https://www.android.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" alt="Android Studio" width="40" height="40"/> </a>  
 
 </p>
 
