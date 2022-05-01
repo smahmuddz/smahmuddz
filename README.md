@@ -14,7 +14,7 @@
 <br>
 <h2> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
   
   
@@ -87,7 +87,8 @@
  
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> 
 <a href="https://www.android.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" alt="Android Studio" width="40" height="40"/> </a>  
 
@@ -112,4 +113,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{smahmuddz}/count.svg" /></p> 
 <br>
 
-                                                      Updated on: 20/12/2021
+                                                      Updated on: 1/5/2022
