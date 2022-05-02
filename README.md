@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196412-78d24ed1-51a7-4589-b4d3-066880969a29.png" alt="C" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196412-78d24ed1-51a7-4589-b4d3-066880969a29.png" alt="C" cheeseheight="70" width="70"  /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196600-bb6c899c-3894-4d08-8a34-242d8b8defe4.png" alt="CPP" cheeseheight="60" width="60"  /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196941-b26d794c-fff4-4c72-bbc2-1761a72591c3.png" alt="JAVA" cheeseheight="60" width="60"  /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166197534-1bbf10cc-6c1f-4369-aef6-b5b9eb697e79.png" alt="PYTHON" cheeseheight="60" width="60"  /></a>
