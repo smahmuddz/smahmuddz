@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2309F707&multiline=true&width=500&lines=Hello%2C+I+am+Afridi.+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sabbirmafridi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142200-1e7dc7b6-0f96-46f2-8414-c9ffefceef55.png" alt="sabbirmafridi" cheeseheight="40" width="40" border="20" /></a>
-<a href="https://linkedin.com/in/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142026-ff3c5284-a8a9-4ac7-ad7b-850066420752.png" alt="smahmuddz" cheeseheight="40" width="40" border="20" /></a>
-<a href="https://fb.com/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142048-14070f91-58be-4db0-a6a8-394f35406e6d.png" alt="smahmuddz" cheeseheight="40" width="40" border="20" /></a>
-<a href="https://instagram.com/magician_sm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142068-632cb9a3-e50a-4e33-9a23-a6c1e71821dc.png" alt="magician_sm" cheeseheight="40" width="40" border="20" /></a>
-<a href="https://www.behance.net/sabbirafridi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142096-a1e7a388-e62f-4fcc-9629-26c0d3ea7822.png" alt="sabbirafridi" cheeseheight="40" width="40" border="20" /></a>
-<a href="https://www.hackerrank.com/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142113-a8e9459d-482c-4f90-9f05-c630165e90b0.png" alt="smahmuddz" cheeseheight="40" width="40" border="20" /></a>
-<a href="https://codeforces.com/profile/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142131-d39c68c0-0efb-46b6-a77e-fa967416d2fc.png" alt="smahmuddz" cheeseheight="40" width="40" border="20" /></a>
+<a href="https://twitter.com/sabbirmafridi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142200-1e7dc7b6-0f96-46f2-8414-c9ffefceef55.png" alt="sabbirmafridi" cheeseheight="40" width="40"  /></a>
+<a href="https://linkedin.com/in/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142026-ff3c5284-a8a9-4ac7-ad7b-850066420752.png" alt="smahmuddz" cheeseheight="40" width="40"  /></a>
+<a href="https://fb.com/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142048-14070f91-58be-4db0-a6a8-394f35406e6d.png" alt="smahmuddz" cheeseheight="40" width="40"  /></a>
+<a href="https://instagram.com/magician_sm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142068-632cb9a3-e50a-4e33-9a23-a6c1e71821dc.png" alt="magician_sm" cheeseheight="40" width="40"  /></a>
+<a href="https://www.behance.net/sabbirafridi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142096-a1e7a388-e62f-4fcc-9629-26c0d3ea7822.png" alt="sabbirafridi" cheeseheight="40" width="40"  /></a>
+<a href="https://www.hackerrank.com/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142113-a8e9459d-482c-4f90-9f05-c630165e90b0.png" alt="smahmuddz" cheeseheight="40" width="40"  /></a>
+<a href="https://codeforces.com/profile/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142131-d39c68c0-0efb-46b6-a77e-fa967416d2fc.png" alt="smahmuddz" cheeseheight="40" width="40"  /></a>
 </p>
 <h3 >A Computer Science Undergrad at East West University who is currently learning new things</h3>
 
