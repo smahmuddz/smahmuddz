@@ -24,71 +24,39 @@
   
 - 🌱 I’m currently learning Android Development, Python, Oracle.
 
-- 📷 Hobby: <a href="https://www.behance.net/sabbirafridi">Photography and Photoshop Manipulation.</a>
+- 📷 Hobby: <a href="https://smahmuddz.github.io/photography/">Photography and Photoshop Manipulation.</a>
  
-- 💬 Contact me at  &nbsp;<a href="https://www.Linkedin.com/smahmuddz" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn" align="center"/> 
+- 💬 Contact me at  &nbsp;<a href="https://linkedin.com/in/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142026-ff3c5284-a8a9-4ac7-ad7b-850066420752.png" alt="smahmuddz" cheeseheight="20" width="20"  /></a> 
   </a>
   
 - ⚡ Fun fact: I am Iron Man.
-  
- 
-
 <br>
-  <br>
-  <br><br>
-
-  
-  
-  
-
 <div align="center">
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=yellow"
-      alt="C++"/> 
-  </a>
+<h3 align="left">Languages</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196412-78d24ed1-51a7-4589-b4d3-066880969a29.png" alt="C" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196600-bb6c899c-3894-4d08-8a34-242d8b8defe4.png" alt="CPP" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196941-b26d794c-fff4-4c72-bbc2-1761a72591c3.png" alt="JAVA" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166197534-1bbf10cc-6c1f-4369-aef6-b5b9eb697e79.png" alt="PYTHON" cheeseheight="60" width="60"  /></a>
   
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-      alt="PYTHON"/> 
-  </a>
-  
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-  
-  </p>
+</p>
 
 
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3 align="left">Database</h3>
+<p align="left">
   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
       alt="postgresql"/> 
   </a>
- <h3 align="center">Learning</h3>
-<p align="center">
-  <a href="https://dart.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  </a> 
- <h3 align="center">Software & Tools </h3>
  
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  
+ <h3 align="left">Software & Tools </h3>
+ <p align="left">
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+ <p align="left">
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> 
 <a href="https://www.android.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" alt="Android Studio" width="40" height="40"/> </a>  
 
