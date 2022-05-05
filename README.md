@@ -35,10 +35,10 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196412-78d24ed1-51a7-4589-b4d3-066880969a29.png" alt="C" cheeseheight="70" width="70"  /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196600-bb6c899c-3894-4d08-8a34-242d8b8defe4.png" alt="CPP" cheeseheight="60" width="60"  /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166196941-b26d794c-fff4-4c72-bbc2-1761a72591c3.png" alt="JAVA" cheeseheight="60" width="60"  /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166197534-1bbf10cc-6c1f-4369-aef6-b5b9eb697e79.png" alt="PYTHON" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912553-9eba34cf-4e72-454b-b2a0-9c557ebaf063.png" alt="C" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912555-2a9fe8bd-6b52-4d11-9ec0-fe0a41407034.png" alt="CPP" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912545-660d6381-b153-4024-8dd2-a9559d4f1e42.png" alt="JAVA" cheeseheight="60" width="60"  /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912552-27346c68-7bd6-4b25-864f-f430a3472add.png" alt="PYTHON" cheeseheight="60" width="60"  /></a>
   
 </p>
 
@@ -59,6 +59,7 @@
  <p align="left">
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> 
 <a href="https://www.android.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" alt="Android Studio" width="40" height="40"/> </a>  
+<a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85384973/166913235-2fb12a11-23f3-46b8-9575-da6d5498cbb7.png" alt="Sql Developer tool" width="40" height="40"/> </a>  
 
 </p>
 
@@ -68,9 +69,9 @@
 <br>
 <br>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=smahmuddz&show_icons=true&theme=dark&locale=en" alt="smahmuddz" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=smahmuddz&show_icons=true&theme=dark&locale=en" alt="smahmuddz" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smahmuddz&theme=dark" alt="smahmuddz" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smahmuddz&theme=dark" alt="smahmuddz" /></p>
 </div>
 <br>
 <h2 align="center">My Website</h2>  
