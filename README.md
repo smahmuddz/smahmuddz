@@ -33,30 +33,30 @@
 <br>
 <div align="center">
 
-<h3 align="left">Languages</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912553-9eba34cf-4e72-454b-b2a0-9c557ebaf063.png" alt="C" cheeseheight="60" width="60"  /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912555-2a9fe8bd-6b52-4d11-9ec0-fe0a41407034.png" alt="CPP" cheeseheight="60" width="60"  /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912545-660d6381-b153-4024-8dd2-a9559d4f1e42.png" alt="JAVA" cheeseheight="60" width="60"  /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166912552-27346c68-7bd6-4b25-864f-f430a3472add.png" alt="PYTHON" cheeseheight="60" width="60"  /></a>
+<h3 align="center">Languages</h3>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   
 </p>
 
 
 
-<h3 align="left">Database</h3>
-<p align="left">
+<h3 align="center">Database</h3>
+<p align="center">
   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> 
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
       alt="postgresql"/> 
   </a>
  
- <h3 align="left">Software & Tools </h3>
- <p align="left">
+ <h3 align="center">Software & Tools </h3>
+ <p align="center">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
- <p align="left">
+ <p align="center">
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis" alt="illustrator" width="40" height="40"/> 
 <a href="https://www.android.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" alt="Android Studio" width="40" height="40"/> </a>  
 <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85384973/166913235-2fb12a11-23f3-46b8-9575-da6d5498cbb7.png" alt="Sql Developer tool" width="40" height="40"/> </a>  
