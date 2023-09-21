@@ -64,7 +64,8 @@ const afridi = {
             </a>
   </div>
     </body>
-<div> 
+<div>
+        <br><br><br><br>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -121,13 +122,9 @@ const afridi = {
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-0078d7.svg?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Autocad" src="https://img.shields.io/badge/Autocad-0078d7.svg?logo=autocad&logoColor=white"></a>
   </p>
-</div>
-
-<h3 align="center">My Github Status</h3>
-<p align="center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=smahmuddz&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smahmuddz&theme=react&layout=compact" />
 </p>
+<br><br><br><br>
+</div>
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" /></p> 
 
