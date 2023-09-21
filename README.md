@@ -44,22 +44,22 @@ const afridi = {
   <div align="center">
             <a target="_blank" href="[https://github.com/smahmuddz/RecomMuse](https://github.com/smahmuddz/RecomMuse)">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=Recommuse&theme=react"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=Recommuse&theme=dracula"
                 />
             </a>
             <a target="_blank" href="[https://github.com/smahmuddz/Todo-List-NextJs](https://github.com/smahmuddz/Todo-List-NextJs)">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=todo-List-NextJs&theme=react"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=todo-List-NextJs&theme=dracula"
                 />
             </a>
     <a target="_blank" href="[https://github.com/smahmuddz/Drone-Ground-Station](https://github.com/smahmuddz/Drone-Ground-Station)">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=Drone-Ground-Station&theme=react"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=Drone-Ground-Station&theme=dracula"
                 />
             </a>
     <a target="_blank" href="[https://github.com/smahmuddz/Ai-Image-generator-website](https://github.com/smahmuddz/Ai-Image-generator-website)">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=Ai-Image-generator-website&theme=react"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=smahmuddz&repo=Ai-Image-generator-website&theme=dracula"
                 />
             </a>
   </div>
