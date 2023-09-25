@@ -1,7 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/smahmuddz/">Sabbir Mahmud Afridi</a></b>
-        </samp>
+        <samp>&gt; Hey There!, I am Sabbir Mahmud Afridi</samp>
 </h3>
 <p align="center"> 
   <samp>
