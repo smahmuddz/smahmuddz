@@ -27,7 +27,7 @@ const afridi = {
     contact: 'smahmuddz@gmail.com',
     country: 'Bangladesh',
     city: 'Dhaka',
-    work: 'fresher, open for work',
+    work: 'Lecturer, Department of CSE',
     linkedin: 'https://www.linkedin.com/in/smahmuddz/',
     instagram: 'https://instagram.com/runtim3terror',
     hired: false,
