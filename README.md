@@ -4,7 +4,7 @@
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Sabbir+Mahmud+Afridi">「 Google Me 」</a>
-    <a href="https://my-portfolio-one-beta-97.vercel.app/">「 My Portfolio 」</a> <br>
+    <a href="https://scholar.google.com/citations?user=dLxWv64AAAAJ&hl=en">「 Google Scholar 」</a> <br>
     <br>
     「 I am a computer science graduate from <b>Bangladesh</b> 」<br>
     THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY
@@ -27,7 +27,7 @@ const afridi = {
     contact: 'smahmuddz@gmail.com',
     country: 'Bangladesh',
     city: 'Dhaka',
-    work: 'Lecturer, Department of CSE',
+    work: 'Freelancer',
     linkedin: 'https://www.linkedin.com/in/smahmuddz/',
     instagram: 'https://instagram.com/runtim3terror',
     hired: false,
