@@ -7,7 +7,6 @@
     <a href="https://smahmuddz.github.io/#about">about</a> ·
     <a href="https://smahmuddz.github.io/#publications">publications</a> ·
     <a href="https://smahmuddz.github.io/#blog">blog</a> ·
-    <a href="https://smahmuddz.github.io/#cv">cv</a> ·
     <a href="https://smahmuddz.github.io/">◐ portfolio</a>
   </samp>
 </p>
@@ -33,21 +32,21 @@
 
 ```js
 const afridi = {
-    fullName: 'Sabbir Mahmud Afridi',
-    contact: 'smahmuddz@gmail.com',
-    country: 'Bangladesh',
-    city: 'Dhaka',
-    work: 'Freelancer',
-    website: 'https://smahmuddz.github.io',
-    scholar: 'https://scholar.google.com/citations?user=dLxWv64AAAAJ&hl=en',
-    linkedin: 'https://www.linkedin.com/in/smahmuddz/',
-    instagram: 'https://instagram.com/runtim3terror',
-    hired: false,
-    hireMe() {
-        this.hired = true;
-        return this.contact
-    }
-}
+  fullName: "Sabbir Mahmud Afridi",
+  contact: "smahmuddz@gmail.com",
+  country: "Bangladesh",
+  city: "Dhaka",
+  work: "Freelancer",
+  website: "https://smahmuddz.github.io",
+  scholar: "https://scholar.google.com/citations?user=dLxWv64AAAAJ&hl=en",
+  linkedin: "https://www.linkedin.com/in/smahmuddz/",
+  instagram: "https://instagram.com/runtim3terror",
+  hired: false,
+  hireMe() {
+    this.hired = true;
+    return this.contact;
+  },
+};
 ```
 
 ---
